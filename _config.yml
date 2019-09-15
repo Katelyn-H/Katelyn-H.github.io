@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Welcome To My Kitchen 
+title: Welcome to My Kitchen!
 
 # Short description of your site
 description: A place to learn a bit about me!
@@ -41,7 +41,7 @@ title-img: "/img/PicsArt_09-15-04.08.53.jpg"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#EBFFFA"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
