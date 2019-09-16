@@ -9,6 +9,6 @@ tags: [about me]
   
    Although I have grown up around many women who are gifted seamstresses, my own experience with sewing has been very limited. In that past I have sewn some patches onto the JROTC uniforms of cadets in my unit, fixed plushies with ladder-stitching, and sewn up holes on some of my older and more worn-out t-shirts.   
   For reference, this is the kind of patch I would add to JROTC uniforms. 
-  ![a white patch with the words Wilcox Central on it.The patch is circular with a red outline, and inside has a roaring jaguar](Katelyn-H.github.io/img/received_384311319172906_2.jpeg)
+  ![a white patch with the words Wilcox Central on it.The patch is circular with a red outline, and inside has a roaring jaguar](https://github.com/Katelyn-H/Katelyn-H.github.io/blob/master/img/received_384311319172906_2.jpeg?raw=true)
 
   
