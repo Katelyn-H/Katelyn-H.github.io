@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Technology and Tailoring
 ---
+Hi, my name is Katelyn Harris. I’m a sophomore at Williams College, an Alabama native, and a prospective American Studies major. Needle and thread are practically sewn into the cultural roots of my hometown—countless of my family members are quilters. On one hand, I’m taking Electronic Textiles to gain a better appreciation for sewing, a skill so many back home have used as a means of self-expression. On the other hand, I’ve always loved tinkering with tech, so this course will be the best of both worlds!
 
-My name is Inigo Montoya. I have the following qualities:
+###about me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To see some of the **beautiful** quilting done by my grandmother, feel free to visit [this site]!(http://www.soulsgrowndeep.org/artist/addie-pearl-nicholson).
