@@ -8,4 +8,4 @@ Hi, my name is Katelyn Harris. I’m a sophomore at Williams College, an Alabama
 
 ###about me
 
-To see some of the **beautiful** quilting done by my grandmother, feel free to visit [this site]!(http://www.soulsgrowndeep.org/artist/addie-pearl-nicholson).
+To see some of the **beautiful** quilting done by my grandmother, feel free to visit [this site!](http://www.soulsgrowndeep.org/artist/addie-pearl-nicholson).
