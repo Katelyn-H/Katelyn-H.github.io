@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Heroes, Quilts, and Computers (Oh My!)
+title: Quilts, Computers, and Heroes (Oh My!)
 subtitle: More about me and what I hope to gain from this course. 
 bigimg: /img/IMG_20190831_185438.jpg
 tags: [about me]
@@ -21,4 +21,4 @@ tags: [about me]
 Overall, I hope to come out of this class with some semblance of competence with a needle and thread, as well as a basic understanding of programing. I'm excited to join you all for this journey!
 
 P.S 
-Here comes my obligatory random fact: I can quote all of episode 60 of Teen Titans (2003) verbatim. Also I own a horse. 
+Here comes my obligatory random fact: I can quote all of episode 60 of Teen Titans (2003) verbatim (hence the word *heroes* in my post title). Also I own a horse. 
