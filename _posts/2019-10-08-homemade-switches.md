@@ -8,13 +8,13 @@ I've attatched some pictures below!
 
 ![front of embroider which has two switches](https://raw.githubusercontent.com/Katelyn-H/Katelyn-H.github.io/master/img/PicsArt_10-08-07.35.43.jpg)
 
-![Back of embroider which has battery](https://github.com/Katelyn-H/Katelyn-H.github.io/blob/master/img/PicsArt_10-08-07.36.58.jpg)
+![Back of embroider which has battery](https://raw.githubusercontent.com/Katelyn-H/Katelyn-H.github.io/master/img/PicsArt_10-08-07.36.58.jpg)
 
-![Worksheet part 1](https://github.com/Katelyn-H/Katelyn-H.github.io/blob/master/img/PicsArt_10-08-07.39.59.jpg)
+![Worksheet part 1](https://raw.githubusercontent.com/Katelyn-H/Katelyn-H.github.io/master/img/PicsArt_10-08-07.39.59.jpg)
 
-![Worksheet part 2](https://github.com/Katelyn-H/Katelyn-H.github.io/blob/master/img/PicsArt_10-08-07.39.09.jpg)
+![Worksheet part 2](https://raw.githubusercontent.com/Katelyn-H/Katelyn-H.github.io/master/img/PicsArt_10-08-07.39.09.jpg)
 
-![Alligator clip version](https://github.com/Katelyn-H/Katelyn-H.github.io/blob/master/img/PicsArt_10-08-07.40.34.jpg)
+![Alligator clip version](https://raw.githubusercontent.com/Katelyn-H/Katelyn-H.github.io/master/img/PicsArt_10-08-07.40.34.jpg)
 
 
 My alligator clip version has three LEDs because I initially decided to use three, but later only implemented one. 
