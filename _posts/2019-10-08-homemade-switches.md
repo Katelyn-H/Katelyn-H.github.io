@@ -6,7 +6,7 @@ tags: [assignments]
 I created two momentary switches on my embroidery sampler. The first switch is turned on by connecting two pieces of satin-stitched conductive thread, while the second is connected by pressing down a piece of conductive fabric. 
 I've attatched some pictures below!
 
-![front of embroider which has two switches](https://github.com/Katelyn-H/Katelyn-H.github.io/blob/master/img/PicsArt_10-08-07.35.43.jpg)
+![front of embroider which has two switches](https://raw.githubusercontent.com/Katelyn-H/Katelyn-H.github.io/master/img/PicsArt_10-08-07.35.43.jpg)
 
 ![Back of embroider which has battery](https://github.com/Katelyn-H/Katelyn-H.github.io/blob/master/img/PicsArt_10-08-07.36.58.jpg)
 
