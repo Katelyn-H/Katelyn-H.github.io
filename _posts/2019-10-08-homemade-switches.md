@@ -7,7 +7,7 @@ I created two momentary switches on my embroidery sampler. The first switch is t
 I've attatched some pictures below!
 ![front of embroider which has two switches](https://github.com/Katelyn-H/Katelyn-H.github.io/blob/master/img/PicsArt_10-08-07.35.43.jpg)
 
-![Back of embroider which has battery](https://github.com/Katelyn-H/Katelyn-H.github.io/blob/master/img/PicsArt_10-08-07.35.43.jpg)
+![Back of embroider which has battery](https://github.com/Katelyn-H/Katelyn-H.github.io/blob/master/img/PicsArt_10-08-07.36.58.jpg)
 
 ![Worksheet part 1](https://github.com/Katelyn-H/Katelyn-H.github.io/blob/master/img/PicsArt_10-08-07.39.59.jpg)
 
