@@ -1,8 +1,8 @@
-
 ---
 layout: post
 title: Simultaneous Sparkies Send Shivers Down Your Spine
-
+subtitle: Get in the Halloween Spirit with these festive LED patterns
+tags: [assignments]
 ---
 For the last class assignment, we were tasked with creating three different codes for LEDs that emulated the blinking patterns of different fireflies. For this class, we were told to merge them all into one code! 
 Below is a gif of my product
